@@ -1,0 +1,20 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: @project.name@
+    version: @project.version@
+    group: @project.artifactId@
+    description: @project.description@
+  data:
+    file: ${data-file:/Users/mac/Downloads/automotive/src/main/resources/data/multidimensional_car_dataset.csv}
+  datasource:
+    username: sa
+    password: sa
+    url: jdbc:h2:mem:automotive
+  h2:
+    console:
+      enabled: true
+  jpa:
+    hibernate:
+      ddl-auto: update

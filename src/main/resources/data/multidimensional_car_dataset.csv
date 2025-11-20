@@ -1,0 +1,201 @@
+Year Model,Color,Shape,Make,Model,Transmission Type,Fuel Type
+2015,Red,Truck,Ford,Focus,Automatic,Electric
+2012,Blue,Convertible,Tesla,Model 3,Automatic,Electric
+2001,White,Truck,BMW,X5,Automatic,Diesel
+2021,Green,Convertible,Chevrolet,Malibu,Automatic,Diesel
+2006,Green,SUV,Honda,CR-V,Manual,Diesel
+2005,Black,Hatchback,Honda,Accord,Automatic,Electric
+2003,Red,SUV,Chevrolet,Malibu,Automatic,Electric
+2020,Green,SUV,Toyota,RAV4,Manual,Diesel
+2007,Blue,Hatchback,Ford,Explorer,Manual,Electric
+2011,Black,Convertible,BMW,X5,Manual,Hybrid
+2003,Red,Sedan,Chevrolet,Tahoe,Manual,Petrol
+2015,Red,Hatchback,Honda,Civic,Automatic,Petrol
+2006,White,SUV,BMW,X3,Automatic,Hybrid
+2010,Silver,Sedan,Ford,Mustang,Automatic,Petrol
+2014,Silver,Truck,BMW,3 Series,Manual,Electric
+2008,Silver,Truck,Chevrolet,Tahoe,Automatic,Diesel
+2020,White,Hatchback,Ford,Mustang,Automatic,Electric
+2009,Blue,Convertible,Tesla,Model 3,Automatic,Petrol
+2000,Black,SUV,Toyota,Camry,Manual,Diesel
+2007,White,SUV,BMW,3 Series,Automatic,Petrol
+2005,Blue,SUV,Honda,Civic,Automatic,Petrol
+2001,Black,Convertible,Chevrolet,Tahoe,Manual,Electric
+asda,Blue,SUV,Toyota,RAV4,Manual,Hybrid
+2001,Black,Hatchback,Toyota,RAV4,Automatic,Electric
+2017,White,Hatchback,Honda,Civic,Manual,Petrol
+2017,Black,Sedan,Chevrolet,Impala,Manual,Electric
+2014,Silver,Coupe,Chevrolet,Tahoe,Automatic,Diesel
+2006,Red,Sedan,Toyota,RAV4,Automatic,Electric
+2001,Blue,Coupe,BMW,3 Series,Manual,Electric
+2018,Black,Truck,Toyota,RAV4,Manual,Electric
+2019,Red,Convertible,Honda,Accord,Automatic,Petrol
+2001,Black,SUV,Tesla,Model 3,Automatic,Hybrid
+2014,Blue,Coupe,Tesla,Model S,Manual,Petrol
+2015,Red,SUV,BMW,3 Series,Automatic,Diesel
+2013,Blue,Coupe,Tesla,Model 3,Manual,Hybrid
+2011,Green,Hatchback,,RAV4,Manual,Electric
+2015,Silver,Convertible,Chevrolet,Malibu,Automatic,Diesel
+2009,Silver,Convertible,Toyota,RAV4,Manual,Electric
+2014,Red,Convertible,Toyota,Camry,Automatic,Diesel
+2008,Blue,Hatchback,Ford,Explorer,Manual,Petrol
+2013,Red,Convertible,Honda,Accord,Automatic,Hybrid
+2004,White,Sedan,Chevrolet,Impala,Automatic,Hybrid
+2013,Black,Sedan,Honda,CR-V,Automatic,Petrol
+2013,White,Hatchback,Chevrolet,Malibu,Manual,Diesel
+2022,Red,Hatchback,Chevrolet,Impala,Manual,Electric
+2008,Green,Truck,Chevrolet,Tahoe,Automatic,Hybrid
+2022,Silver,Hatchback,Toyota,RAV4,Automatic,Diesel
+2000,Black,Sedan,Chevrolet,Malibu,Automatic,Diesel
+2006,Silver,Coupe,Toyota,Corolla,Automatic,Electric
+2013,Green,SUV,BMW,3 Series,Automatic,Electric
+2014,Red,Sedan,Toyota,Camry,Manual,Electric
+2009,Silver,Convertible,,Model X,Automatic,Hybrid
+2010,Green,Coupe,Toyota,Corolla,Automatic,Diesel
+2018,Silver,SUV,Chevrolet,Malibu,Manual,Hybrid
+2017,Blue,Coupe,BMW,3 Series,Manual,Diesel
+2005,Green,Hatchback,Chevrolet,Impala,Automatic,Petrol
+2009,Blue,Truck,Chevrolet,Tahoe,Automatic,Diesel
+2007,Silver,Convertible,Toyota,RAV4,Automatic,Petrol
+2012,Blue,Sedan,Honda,CR-V,Automatic,Petrol
+2015,Green,Hatchback,Tesla,Model X,Automatic,Hybrid
+2006,Black,Truck,Toyota,Corolla,Automatic,Diesel
+2017,White,SUV,BMW,3 Series,Manual,Petrol
+2015,Green,Convertible,Toyota,RAV4,Automatic,Hybrid
+2018,Blue,Hatchback,Honda,Accord,Automatic,Hybrid
+2012,Green,SUV,Tesla,Model S,Manual,Petrol
+2003,Black,Coupe,Tesla,Model S,Automatic,Diesel
+2014,White,Hatchback,Ford,Focus,Manual,Electric
+2016,Blue,Coupe,Chevrolet,Tahoe,Manual,Electric
+2010,Green,Convertible,Chevrolet,Impala,Automatic,Hybrid
+2016,Blue,Coupe,Toyota,Corolla,Manual,Electric
+2022,Red,Convertible,BMW,X5,Manual,Petrol
+2002,Silver,Sedan,Ford,Focus,Automatic,Diesel
+2015,White,Coupe,Toyota,Corolla,Manual,Diesel
+2021,Red,Coupe,Honda,Accord,Manual,Diesel
+2020,White,Sedan,Honda,Accord,Automatic,Diesel
+2010,Silver,Sedan,Chevrolet,Tahoe,Automatic,Diesel
+2004,White,Truck,Toyota,Camry,Automatic,Hybrid
+2000,Silver,Convertible,Honda,CR-V,Automatic,Petrol
+2019,Black,Sedan,Chevrolet,Impala,Automatic,Diesel
+2017,Green,Truck,Toyota,RAV4,Automatic,Diesel
+2003,Blue,SUV,Ford,Mustang,Manual,Hybrid
+2002,Silver,Coupe,Tesla,Model S,Automatic,Petrol
+2001,Silver,Coupe,Tesla,Model X,Automatic,Petrol
+2022,Black,Sedan,Chevrolet,Malibu,Manual,Diesel
+2010,Green,Truck,,CR-V,Automatic,Diesel
+2021,Blue,Convertible,Ford,Explorer,Automatic,Hybrid
+2015,Blue,Coupe,Tesla,Model X,Automatic,Diesel
+2018,Silver,Sedan,Tesla,Model 3,Manual,Diesel
+2015,Red,Convertible,Ford,Focus,Automatic,Diesel
+2011,Blue,Truck,Chevrolet,Impala,Automatic,Hybrid
+2015,Red,SUV,Toyota,Camry,Manual,Electric
+2021,Red,Convertible,Tesla,Model X,Automatic,Electric
+2001,Red,Convertible,Ford,Mustang,Manual,Diesel
+2015,Green,Hatchback,Chevrolet,Tahoe,Automatic,Diesel
+2013,Blue,Convertible,Chevrolet,Tahoe,Automatic,Electric
+2013,Red,Hatchback,Honda,Accord,Manual,Petrol
+2006,Silver,Sedan,Ford,Explorer,Automatic,Petrol
+2004,Red,Truck,Honda,Civic,Manual,Petrol
+2008,Red,Truck,Tesla,Model X,Manual,Diesel
+2002,Silver,SUV,Toyota,Corolla,Automatic,Diesel
+2012,Green,Sedan,BMW,X3,Manual,Hybrid
+2022,Blue,Coupe,BMW,3 Series,Manual,Petrol
+2000,White,Sedan,Tesla,Model X,Manual,Electric
+2005,Blue,Sedan,Honda,Civic,Automatic,Hybrid
+2021,Blue,Convertible,Chevrolet,Tahoe,Automatic,Diesel
+2017,Black,Coupe,Honda,Accord,Manual,Hybrid
+2006,Green,Sedan,Toyota,RAV4,Manual,Diesel
+xxxx,Red,Convertible,Chevrolet,Impala,Manual,Diesel
+2021,Green,Truck,BMW,X5,Manual,Hybrid
+2006,White,Hatchback,Toyota,Camry,Automatic,Hybrid
+2011,Green,Coupe,Toyota,Camry,Manual,Petrol
+2021,Black,Hatchback,Chevrolet,Malibu,Automatic,Diesel
+2013,Black,Sedan,BMW,3 Series,Manual,Electric
+2008,White,Truck,Honda,CR-V,Manual,Hybrid
+2000,Black,Coupe,BMW,X3,Automatic,Diesel
+2022,Silver,Coupe,BMW,3 Series,Manual,Electric
+2009,White,Truck,BMW,X3,Manual,Petrol
+2012,Blue,Sedan,BMW,3 Series,Manual,Petrol
+2001,Red,Sedan,Toyota,RAV4,Manual,Diesel
+2016,Green,Sedan,Toyota,Camry,Manual,Hybrid
+2003,White,SUV,Tesla,Model S,Automatic,Diesel
+2005,Blue,SUV,Honda,CR-V,Automatic,Diesel
+2007,White,SUV,Chevrolet,Tahoe,Manual,Diesel
+2004,White,Truck,Chevrolet,Malibu,Manual,Electric
+2008,Silver,Sedan,Chevrolet,Tahoe,Automatic,Petrol
+2011,Blue,SUV,Chevrolet,Impala,Manual,Diesel
+2013,Silver,Truck,Ford,Explorer,Automatic,Diesel
+2008,White,Sedan,Ford,Explorer,Manual,Diesel
+2018,Blue,Sedan,Chevrolet,Tahoe,Automatic,Petrol
+2011,Black,Coupe,Honda,CR-V,Automatic,Diesel
+2008,Red,Coupe,BMW,X5,Manual,Diesel
+2000,Blue,SUV,BMW,X3,Automatic,Diesel
+2000,Green,Hatchback,BMW,X5,Manual,Electric
+,Green,SUV,Tesla,Model 3,Automatic,Petrol
+2001,Red,Coupe,Honda,Accord,Manual,Electric
+2005,Green,Sedan,Chevrolet,Tahoe,Automatic,Electric
+2013,Black,Truck,BMW,X5,Manual,Petrol
+2018,Red,Hatchback,BMW,3 Series,Manual,Petrol
+2012,Red,Truck,Toyota,Corolla,Automatic,Hybrid
+2004,White,SUV,Chevrolet,Impala,Manual,Electric
+2008,Blue,Convertible,Ford,Focus,Manual,Diesel
+2002,Black,Hatchback,Tesla,Model S,Automatic,Petrol
+null,Green,Sedan,Ford,Focus,Manual,Electric
+2003,White,Coupe,Ford,Mustang,Manual,Diesel
+2005,Blue,Coupe,BMW,X3,Manual,Diesel
+2022,Black,SUV,Toyota,Corolla,Automatic,Diesel
+2011,White,Truck,Honda,Civic,Manual,Hybrid
+2017,Blue,Truck,Tesla,Model 3,Automatic,Electric
+2004,Green,Hatchback,Tesla,Model 3,Automatic,Diesel
+2001,White,Hatchback,Tesla,Model 3,Manual,Diesel
+2008,Green,Hatchback,Tesla,Model X,Automatic,Petrol
+2001,Blue,Hatchback,BMW,X5,Automatic,Petrol
+2021,Black,Truck,Ford,Focus,Automatic,Electric
+2005,Silver,Convertible,Tesla,Model X,Manual,Diesel
+2004,White,Sedan,Toyota,RAV4,Automatic,Electric
+2013,Red,Coupe,Honda,CR-V,Automatic,Diesel
+2018,Black,Convertible,BMW,X5,Automatic,Petrol
+2000,Green,Convertible,Tesla,Model X,Automatic,Diesel
+2004,White,Sedan,Ford,Mustang,Manual,Hybrid
+2008,Black,Convertible,BMW,X5,Automatic,Electric
+2017,White,Hatchback,Tesla,Model X,Automatic,Petrol
+xxxx,Blue,Hatchback,Ford,Mustang,Manual,Petrol
+2019,Blue,Coupe,BMW,X3,Manual,Petrol
+2014,Black,Coupe,Toyota,Corolla,Manual,Hybrid
+2021,Silver,Convertible,Chevrolet,Impala,Automatic,Petrol
+2013,Black,Hatchback,BMW,3 Series,Automatic,Electric
+2010,White,Sedan,Tesla,Model X,Manual,Petrol
+2001,Silver,Convertible,Toyota,Corolla,Manual,Petrol
+2005,Green,Coupe,Ford,Focus,Automatic,Hybrid
+2016,Black,Truck,Honda,Accord,Automatic,Petrol
+2003,White,Convertible,Ford,Explorer,Manual,Hybrid
+2000,Black,SUV,Chevrolet,Malibu,Automatic,Petrol
+2016,Silver,Convertible,Honda,CR-V,Manual,Petrol
+2008,Green,Sedan,Toyota,Camry,Automatic,Hybrid
+2013,White,Convertible,Tesla,Model 3,Automatic,Hybrid
+2001,Blue,SUV,Chevrolet,Tahoe,Automatic,Electric
+2002,Blue,SUV,Tesla,Model 3,Manual,Electric
+2005,Green,Convertible,BMW,X5,Manual,Petrol
+2003,White,Sedan,Chevrolet,Tahoe,Manual,Electric
+2022,Green,SUV,Toyota,Camry,Manual,Electric
+2009,Blue,Coupe,Toyota,RAV4,Automatic,Hybrid
+2001,Black,Hatchback,Honda,Accord,Automatic,Hybrid
+2016,White,SUV,Tesla,Model 3,Manual,Petrol
+2012,Silver,SUV,Tesla,Model X,Automatic,Electric
+2015,Red,Convertible,Ford,Explorer,Automatic,Diesel
+2002,White,Coupe,Tesla,Model 3,Manual,Diesel
+2022,Blue,Convertible,BMW,X3,Manual,Electric
+2004,Green,Coupe,Ford,Mustang,Automatic,Petrol
+2008,Green,Truck,Ford,Explorer,Manual,Diesel
+2003,Red,Truck,BMW,X3,Manual,Diesel
+2010,Green,Convertible,Honda,Accord,Manual,Petrol
+2014,Black,SUV,Chevrolet,Tahoe,Manual,Electric
+2018,Black,Sedan,Ford,Mustang,Automatic,Electric
+2005,Red,Hatchback,Chevrolet,Impala,Automatic,Electric
+2008,Red,Truck,Tesla,Model S,Manual,Electric
+2000,White,Sedan,Toyota,RAV4,Automatic,Hybrid
+2002,White,Truck,Chevrolet,Tahoe,Manual,Hybrid
+2007,Green,Sedan,BMW,3 Series,Automatic,Diesel
+2019,Blue,Truck,Ford,Mustang,Automatic,Diesel
+2011,Red,SUV,BMW,X5,Manual,Diesel
